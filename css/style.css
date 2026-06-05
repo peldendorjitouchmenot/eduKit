@@ -836,6 +836,9 @@ nav a:hover{
             padding: 0px;
             margin: 0px;
         }
+        .topic1{
+            margin-top: 20px;
+        }
         .image-cart {
             width: 100%;
         }
