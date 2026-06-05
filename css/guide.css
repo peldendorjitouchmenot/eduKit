@@ -105,7 +105,7 @@ nav a:hover{
    text-align: center;
     height: 70vh;
     /* margin-top: 80px; */
-    background-image: url("/services/guidehero.jpg");
+    background-image: url("../services/guidehero.jpg");
     background-repeat: no-repeat;
     object-fit: cover;
     background-size: cover;
