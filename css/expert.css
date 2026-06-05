@@ -96,7 +96,7 @@ nav a:hover{
 }
 .support-hero {position: relative;
     height: 70vh;
-    background-image: url("/services/36ac79472ba23959cc208c4f94383248.jpg");
+    background-image: url("../services/36ac79472ba23959cc208c4f94383248.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
