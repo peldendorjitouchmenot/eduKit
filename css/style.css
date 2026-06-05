@@ -848,6 +848,9 @@ nav a:hover{
         .gallery-cart{
             width: 100%;
         }
+         .gallery-cart h4{
+            margin-bottom: 20px;
+         }
         
     .footer-inner 
     .footer-box{
