@@ -641,7 +641,7 @@ html {
   opacity: 1;
   pointer-events: auto;
 }
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 768px) {
     header{
     padding:0 30px;
 }
