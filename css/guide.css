@@ -416,14 +416,15 @@ nav a:hover{
             color:#dcdcdc;
             font-size:15px;
         }
+        
         /* Style the button */
-#backToTop {
-  position: fixed; /* Keeps the button in a fixed position on the screen */
-  bottom: 30px;    /* 30px from the bottom */
-  right: 30px;     /* 30px from the right */
-  z-index: 99;     /* Ensures it stays on top of other elements */
+/* #backToTop {
+  position: fixed;
+  bottom: 30px;    
+  right: 30px;     
+  z-index: 99;     
   
-  /* Styling */
+  
   background-color: #007bff; 
   color: white;
   border-radius: 50%;
@@ -432,24 +433,24 @@ nav a:hover{
   font-size: 20px;
   cursor: pointer;
   
-  /* Smooth fade-in effect */
+  
   opacity: 0;
   transition: opacity 0.3s ease, transform 0.3s ease;
-  pointer-events: none; /* Prevents clicking while invisible */
+  pointer-events: none; 
   border: none;
 }
 
-/* Hover effect */
+
 #backToTop:hover {
   background-color: #0056b3;
   transform: scale(1.1);
 }
 
-/* Class to show the button via JavaScript */
+ 
 #backToTop.show {
   opacity: 1;
   pointer-events: auto;
-}
+} */
 
 /* CHAT ICON POSITION */
 .botIcon {
