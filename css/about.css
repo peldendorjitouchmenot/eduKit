@@ -600,13 +600,17 @@ nav a:hover{
             background-position: center;
             background-size: cover; 
 }
+.btn{
+    padding: 6px 10px;
+    font-size: 14px;
+}
 .overlay{
      padding: 10px;
         width: 100%;
         margin-top: 0px;
 }
 .overlay h1{
-        font-size: 38px;
+        font-size: 28px;
         line-height: 1.2;
         padding: 0;
         margin-bottom: 5px;
