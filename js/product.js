@@ -1,25 +1,3 @@
-let currentSlide = 0;
-    function moveSlide(direction) {
-        const track = document.getElementById('carouselTrack');
-        const items = document.querySelectorAll('.carousel-item');
-        const totalSlides = items.length;
-
-        currentSlide += direction;
-
-        if (currentSlide >= totalSlides) {
-            currentSlide = 0;
-        } else if (currentSlide < 0) {
-            currentSlide = totalSlides - 1;
-        }
-
-        const amountToMove = currentSlide * 100;
-        track.style.transform = `translateX(-${amountToMove}%)`;
-    }
-
-
-
-
-
 
 document.addEventListener("DOMContentLoaded", function () {
 
